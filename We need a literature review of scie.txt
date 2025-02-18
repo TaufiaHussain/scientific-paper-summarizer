@@ -1,0 +1,26 @@
+We need a literature review of scientific papers from 2020 onwards on topics:
+
+Multiphase Flow
+Computational Fluid Dynamics (CFD)
+Discrete Element Method (DEM)
+CFD-DEM Coupling
+Fluid-Particle Interactions
+Hybrid Lagrange-Eulerian Methods
+Three-Phase Simulations
+Nanoparticle Agglomeration & Transport
+
+The reviews should be listed in Google sheet with the following information:
+Title
+Author(s)
+Institution
+Year
+Journal/Conference
+Keywords
+Methodology
+Main Findings
+Equations/Models
+Application Area
+Strengths
+Limitations
+Citations
+DOI/Link
